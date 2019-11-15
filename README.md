@@ -1,3 +1,7 @@
+You can see the package here:
+
+https://www.npmjs.com/package/algorithmsnpm
+
 # Algorithms Library
 
 This is a library I created as a personal project, and as a convenience for myself and others. This library contains commonly used searching and sorting algorithms. This is a work in progress, and more algorithms will be added in the future.
