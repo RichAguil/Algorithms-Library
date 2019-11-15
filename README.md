@@ -7,7 +7,6 @@ This is a library I created as a personal project, and as a convenience for myse
 Below you will find an example of how to bring in the module, and begin using it.
 
 ```javascript
-
 var algorithms = require('algorithmsnpm');
 
 var unsortedArray = [5,10,8,2,1,54,-34,17,0,-76];
